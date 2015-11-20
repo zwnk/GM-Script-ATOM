@@ -1,0 +1,9 @@
+{
+  "name": "language-gm-script",
+  "version": "0.0.1",
+  "description": "Syntax highlighting for Global Mapper Script Language",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  }
+ }

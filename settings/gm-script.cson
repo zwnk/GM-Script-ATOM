@@ -1,0 +1,7 @@
+'.source.gm-script':
+  'editor':
+    'autoIndentOnPaste': false
+    'softTabs': true
+    'tabLength': 4
+    'commentStart': '// '
+    'commentEnd': ' \\n'
